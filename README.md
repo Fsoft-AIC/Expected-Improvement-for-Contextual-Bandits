@@ -28,3 +28,15 @@ The project requires Python with packages such as `numpy`, `torch`, `matplotlib`
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+## Citation and reference 
+For technical details and full experimental results, please check [our paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/8f0942c43fcfba4cc66a859b9fcb1bba-Paper-Conference.pdf).
+```
+@article{tran2022expected,
+  title={Expected Improvement for Contextual Bandits},
+  author={Tran, Hung The and Gupta, Sunil and Rana, Santu and Truong, Tuan and Tran-Thanh, Long and Venkatesh, Svetha and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={22725--22738},
+  year={2022}
+}
+```
